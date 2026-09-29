@@ -65,7 +65,7 @@ Nothing. If it saves you time there is a voluntary [support button](https://bemo
 Yes, a separate free App Store download: [VoxFlow on the App Store](https://apps.apple.com/app/id6760209368). That is the version Apple reviews.
 
 **Where do I report a bug or ask a question?**
-Open an [issue](../../issues) in this repository, or use the [support page](https://bemooore.com/voxflow/support/?utm_source=github&utm_medium=referral&utm_campaign=voxflow_mac_repo&utm_content=readme_faq).
+Open an [issue](https://github.com/pittner/voxflow-mac/issues) in this repository, or use the [support page](https://bemooore.com/voxflow/support/?utm_source=github&utm_medium=referral&utm_campaign=voxflow_mac_repo&utm_content=readme_faq).
 
 ## Links
 

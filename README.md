@@ -6,6 +6,8 @@ Hold a key, say the sentence, let go. The text appears in whatever app you were 
 
 Free. Version 1.0, macOS 14.0 Sonoma or later, Apple Silicon and Intel (universal binary). Notarized by Apple. No account, no subscription, no trial timer.
 
+Install with Homebrew: `brew install --cask pittner/voxflow/voxflow-pro` ([tap](https://github.com/pittner/homebrew-voxflow)).
+
 > This repository is an information and support page. The app itself is distributed only from the official page above, not from this repository. There is no source code here.
 
 ## What you get
